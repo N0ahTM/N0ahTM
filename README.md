@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Noah 👋
 
-<!--
-**N0ahTM/N0ahTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal GitHub profile.
 
-Here are some ideas to get you started:
+This space highlights my personal achievements, current projects, and the topics I'm most interested in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Share Here
+- Personal and collaborative projects
+- Milestones and achievements
+- Ideas I'm building and exploring
+
+## 🌱 Interests
+- Software development and problem-solving
+- Learning new tools and technologies
+- Creating useful, practical projects
+
+## 🤝 What I Have to Offer
+- Motivation to build and keep improving
+- A growing portfolio of hands-on work
+- Openness to collaboration and feedback
