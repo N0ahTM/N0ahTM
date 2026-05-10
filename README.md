@@ -1,9 +1,5 @@
 <div align="center">
 
-# Noah | N0ahTM
-
-**Practical builder focused on web apps, Windows tools, and embedded experiments.**
-
 [![Profile views](https://komarev.com/ghpvc/?username=N0ahTM&style=flat-square&color=2563eb)](https://github.com/N0ahTM)
 [![GitHub followers](https://img.shields.io/github/followers/N0ahTM?style=flat-square&logo=github&label=Followers)](https://github.com/N0ahTM?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/N0ahTM?style=flat-square&logo=github&label=Stars)](https://github.com/N0ahTM?tab=repositories)
